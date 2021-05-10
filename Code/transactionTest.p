@@ -28,11 +28,12 @@ END PROCEDURE.
     END FUNCTION.
     
 
-    REPEAT i = 0 TO i < 5:
+    REPEAT:
             clienteAgregado = agregarCliente("oscar n°" + STRING(i),i).
             MESSAGE TRANSACTION VIEW-AS ALERT-BOX.
             RUN listarClientes.
             i = i + 1.
+            IF i > 5 THEN LEAVE.
     END.
 
 RUN listarClientes.
