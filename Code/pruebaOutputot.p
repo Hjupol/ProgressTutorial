@@ -179,7 +179,7 @@ END.
 &SCOPED-DEFINE TableToExport clientes
 
 /*Se define la ubicación donde se quiere exportar*/
-DEFINE VARIABLE lv-output-path AS CHARACTER NO-UNDO INITIAL "C:\Users\QAD\Desktop\Documentos_Trabajo\".
+DEFINE VARIABLE lv-output-path AS CHARACTER NO-UNDO INITIAL "C:\Users\QAD\Documents\GitHub\ProgressTutorial\".
 DEFINE VARIABLE lv-output-type AS CHARACTER NO-UNDO INITIAL "csv".
 /*Registran las cabeceras de columnas de datos.*/
 DEFINE VARIABLE lv-headings    AS CHARACTER NO-UNDO.
@@ -205,7 +205,7 @@ END.
 
 /* Output the  field-headings */
 /*Escribe las cabeceras de datos*/
-OUTPUT STREAM data-export TO VALUE(lv-output-path + "{&TableToExport}" + "1." + lv-output-type).
+OUTPUT STREAM data-export TO VALUE(lv-output-path + "{&TableToExport}" + "Prueba." + lv-output-type).
 /*PUT STREAM data-export UNFORMATTED LEFT-TRIM(lv-headings, ",") SKIP.*/
 
 /* Output the table contents */
