@@ -1,0 +1,11 @@
+Compu: qadarg
+
+acti: aarandez // mfgpro
+
+qad: mfg // mfgpro
+
+linux: root // mfgpro
+
+winscp: mfg // mfgpro
+
+IP: ee2016demo.qad.cl

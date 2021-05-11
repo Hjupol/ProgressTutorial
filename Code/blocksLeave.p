@@ -1,10 +1,6 @@
 DEFINE VARIABLE valid-choice AS CHARACTER NO-UNDO INITIAL "NPFQ".
 DEFINE VARIABLE selection    AS CHARACTER NO-UNDO FORMAT "x".
 
-ON BELL do:
-    MESSAGE "Suenan las campanas." VIEW-AS ALERT-BOX.
-END.
-
 main-loop:
 REPEAT:
   choose:
