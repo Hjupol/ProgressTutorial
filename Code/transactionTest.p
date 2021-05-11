@@ -29,7 +29,11 @@ END PROCEDURE.
     
 
     REPEAT:
+            
             clienteAgregado = agregarCliente("oscar n°" + STRING(i),i).
+            ON Write OF clientes DO: MESSAGE "Cliente " + clientes.nombre + " agregado." VIEW-AS ALERT-BOX.
+            BELL.
+            END.
             MESSAGE TRANSACTION VIEW-AS ALERT-BOX.
             RUN listarClientes.
             i = i + 1.
