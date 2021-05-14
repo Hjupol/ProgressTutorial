@@ -92,3 +92,5 @@ DELETE OBJECT moSampleClass.
 MESSAGE "There are" miEmployeeCount "employees, of which" SKIP
  miCountryCount "have just been assigned to France."
  VIEW-AS ALERT-BOX.
+ 
+ 
