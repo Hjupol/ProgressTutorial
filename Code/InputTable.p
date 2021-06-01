@@ -9,7 +9,7 @@ DEFINE STREAM streamImport.
 DEFINE STREAM streamExport.
 DEFINE VARIABLE entrada AS CHARACTER NO-UNDO.
 DEFINE VARIABLE filePath AS CHARACTER NO-UNDO INITIAL "C:\Users\QAD\Desktop\Documentos_Trabajo\clientes1.csv".
-/*Agregar upend*/
+/*Agregar append*/
 OUTPUT STREAM streamExport TO VALUE(filePath) APPEND.
 PUT STREAM streamExport UNFORMATTED a SKIP(1).
 OUTPUT STREAM streamExport CLOSE.
