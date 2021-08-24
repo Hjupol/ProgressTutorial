@@ -1,0 +1,340 @@
+Padre;951007;Mon: USD;
+;  ;;;;;Material;Mat;0;0;0;0;0;
+;  EUTEBROL  10mg  60cmp;;;;;Env Sec;Mat;0;.11;.11;.11;.11;
+;                     PT CH;;;;;Gran Env;Mat;0;1.85652;1.85652;1.85652;1.85652;
+;  06/24/21;;;;;PT;Mat;0;.01;.01;.01;.01;
+;  ;;;;;Mano obr;Man;0;0;0;0;0;
+;  ;;;;;Acondi;Man;.2807;0;.2807;.2807;.2807;
+;  ;;;;;Indirect;Ind;0;0;0;0;0;
+;  ;;;;;Ind Aco;Ind;2.2141;0;2.2141;2.2141;2.2141;
+;  ;;;;;Generale;Gen;0;0;0;0;0;
+;  ;;;;;Gto Exp%;Gen;.0229641158;0;.0229641158;.0229641158;.0229641158;
+;  ;;;;;Gto Imp%;Gen;0;.0314478;.0314478;.0314478;.0314478;
+;  ;;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;2.5177641158;2.0079678;4.5257319158;4.5257319158;4.5257319158;
+
+1;313207;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  EUTEBROL  10mg  60cmp;0;;;;Env Sec;Mat;.09;0;.09;.09;.09;
+;                     ES CH;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.0027;0;.0027;.0027;.0027;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.0927;0;.0927;.0927;.0927;
+
+1;320695;2;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ETIQUETA DE SEGURIDAD G1;0;;;;PT;Mat;.005;0;.005;.01;.01;
+;                     ET GR;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.00015;0;.00015;.0003;.0003;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.00515;0;.00515;.0103;.0103;
+
+1;343334;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  EUTEBROL  10mg;0;;;;Env Sec;Mat;.02;0;.02;.02;.02;
+;                     PR CH;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.0006;0;.0006;.0006;.0006;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.0206;0;.0206;.0206;.0206;
+
+1;700525;6;un;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  EUTEBROL  10mg  10cmp;0;;;;Gran Env;Mat;.30942;0;.30942;1.85652;1.85652;
+;                     BL GR;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.0046413;0;.0046413;.0278478;.0278478;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.3140613;0;.3140613;1.8843678;1.8843678;
+
+Padre;951100;Mon: USD;
+;  ;;;;;Material;Mat;0;0;0;0;0;
+;  CAPEFAS 500mg 120cmp;;;;;Env Sec;Mat;0;.595;.595;.595;.595;
+;                     PT VE;;;;;Gran Env;Mat;0;39.73356;39.73356;39.73356;39.73356;
+;  06/24/21;;;;;PT;Mat;0;.005;.005;.005;.005;
+;  ;;;;;Mano obr;Man;0;0;0;0;0;
+;  ;;;;;Acondi;Man;.6474;0;.6474;.6474;.6474;
+;  ;;;;;Indirect;Ind;0;0;0;0;0;
+;  ;;;;;Ind Aco;Ind;5.2893;0;5.2893;5.2893;5.2893;
+;  ;;;;;Generale;Gen;0;0;0;0;0;
+;  ;;;;;Gto Exp%;Gen;.2391097433;0;.2391097433;.2391097433;.2391097433;
+;  ;;;;;Gto Imp%;Gen;0;.6140034;.6140034;.6140034;.6140034;
+;  ;;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;6.1758097433;40.9475634;47.1233731433;47.1233731433;47.1233731433;
+
+1;313294;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  CAPEFAS 500mg 120cmp;0;;;;Env Sec;Mat;.45;0;.45;.45;.45;
+;                     ES VE;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.0135;0;.0135;.0135;.0135;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.4635;0;.4635;.4635;.4635;
+
+1;320695;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ETIQUETA DE SEGURIDAD G1;0;;;;PT;Mat;.005;0;.005;.005;.005;
+;                     ET GR;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.00015;0;.00015;.00015;.00015;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.00515;0;.00515;.00515;.00515;
+
+1;343365;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  CAPEFAS 500mg;0;;;;Env Sec;Mat;.145;0;.145;.145;.145;
+;                     PR VE;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.00435;0;.00435;.00435;.00435;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.14935;0;.14935;.14935;.14935;
+
+1;701046;12;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  CAPEFAS 500mg  10cmp;0;;;;Gran Env;Mat;3.31113;0;3.31113;39.73356;39.73356;
+;                     BL G1;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.04966695;0;.04966695;.5960034;.5960034;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;3.36079695;0;3.36079695;40.3295634;40.3295634;
+
+Padre;951131;Mon: USD;
+;  ;;;;;Material;Mat;0;0;0;0;0;
+;  ABRAXANE 100mg   1FCO;;;;;PT;Mat;176.8;0;176.8;176.8;176.8;
+;                     PT EQ;;;;;Env Sec;Mat;0;.7166666667;.7166666667;.7166666667;.7166666667;
+;  06/24/21;;;;;Gran Env;Mat;0;552.2;552.2;552.2;552.2;
+;  ;;;;;Mano obr;Man;1.0222;0;1.0222;1.0222;1.0222;
+;  ;;;;;Indirect;Ind;6.7398;0;6.7398;6.7398;6.7398;
+;  ;;;;;Generale;Gen;0;0;0;0;0;
+;  ;;;;;Gto Exp%;Gen;3.78355825;0;3.78355825;3.78355825;3.78355825;
+;  ;;;;;Gto Imp%;Gen;1.0608;3.3347;4.3955;4.3955;4.3955;
+;  ;;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;189.40635825;556.2513666667;745.6577249167;745.6577249167;745.6577249167;
+
+1;302639;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ABRAXANE 100mg   1FCO;0;;;;Env Sec;Mat;.49;0;.49;.49;.49;
+;                     ES G2;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.0147;0;.0147;.0147;.0147;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.5047;0;.5047;.5047;.5047;
+
+1;324830;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ABRAXANE 100mg   1FCO;0;;;;Env Sec;Mat;.08;0;.08;.1066666667;.1066666667;
+;                     ET G2;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  Rend: 100%;0;;;;Gto Imp%;Gen;.0024;0;.0024;.0032;.0032;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.0824;0;.0824;.1098666667;.1098666667;
+
+1;324865;2;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ETIQUETA DE SEGURIDAD;0;;;;Mano obr;Man;0;0;0;0;0;
+;  CELGENE            ET GR;0;;;;Indirect;Ind;0;0;0;0;0;
+;  06/24/21;0;;;;Generale;Gen;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Subcontr;Sub;0;0;0;0;0;
+;  Rend: 100%;
+;;;;;;  Total:;0;0;0;0;0;
+
+1;340876;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ABRAXANE;0;;;;Env Sec;Mat;.03;0;.03;.03;.03;
+;                     PR EQ;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.0009;0;.0009;.0009;.0009;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.0309;0;.0309;.0309;.0309;
+
+1;360005;1;un;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  INT 1vial x 50mL;0;;;;Env Sec;Mat;.09;0;.09;.09;.09;
+;                     CU GR;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.0027;0;.0027;.0027;.0027;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.0927;0;.0927;.0927;.0927;
+
+1;701087;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ABRAXANE 100mg/ 50ml(SS);0;;;;Gran Env;Mat;552.2;0;552.2;552.2;552.2;
+;                     FC GR;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;3.3132;0;3.3132;3.3132;3.3132;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;555.5132;0;555.5132;555.5132;555.5132;
+
+Padre;951242;Mon: USD;
+;  ;;;;;Material;Mat;144.81;0;144.81;144.81;144.81;
+;  ABRAXANE 100mg   1FCO;;;;;Env Sec;Mat;0;.59;.59;.59;.59;
+;                     PT PE;;;;;Gran Env;Mat;0;552.2;552.2;552.2;552.2;
+;  06/24/21;;;;;PT;Mat;0;.07;.07;.07;.07;
+;  ;;;;;Mano obr;Man;0;0;0;0;0;
+;  ;;;;;Acondi;Man;.4167;0;.4167;.4167;.4167;
+;  ;;;;;Indirect;Ind;0;0;0;0;0;
+;  ;;;;;Ind Aco;Ind;3.0956;0;3.0956;3.0956;3.0956;
+;  ;;;;;Generale;Gen;0;0;0;0;0;
+;  ;;;;;Gto Exp%;Gen;3.5963514195;0;3.5963514195;3.5963514195;3.5963514195;
+;  ;;;;;Gto Imp%;Gen;.651645;3.333;3.984645;3.984645;3.984645;
+;  ;;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;152.5702964195;556.193;708.7632964195;708.7632964195;708.7632964195;
+
+1;302717;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ABRAXANE 100mg   1FCO;0;;;;Env Sec;Mat;.21;0;.21;.21;.21;
+;                     ES PE;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.0063;0;.0063;.0063;.0063;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.2163;0;.2163;.2163;.2163;
+
+1;324850;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ABRAXANE 100mg   1FCO;0;;;;Env Sec;Mat;.29;0;.29;.29;.29;
+;                     ET PE;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.0087;0;.0087;.0087;.0087;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.2987;0;.2987;.2987;.2987;
+
+1;324865;2;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ETIQUETA DE SEGURIDAD;0;;;;Mano obr;Man;0;0;0;0;0;
+;  CELGENE            ET GR;0;;;;Indirect;Ind;0;0;0;0;0;
+;  06/24/21;0;;;;Generale;Gen;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Subcontr;Sub;0;0;0;0;0;
+;  Rend: 100%;
+;;;;;;  Total:;0;0;0;0;0;
+
+1;341054;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ABRAXANE 100mg;0;;;;PT;Mat;.07;0;.07;.07;.07;
+;  PR PE;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.0021;0;.0021;.0021;.0021;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.0721;0;.0721;.0721;.0721;
+
+1;360005;1;un;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  INT 1vial x 50mL;0;;;;Env Sec;Mat;.09;0;.09;.09;.09;
+;                     CU GR;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.0027;0;.0027;.0027;.0027;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.0927;0;.0927;.0927;.0927;
+
+1;701087;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ABRAXANE 100mg/ 50ml(SS);0;;;;Gran Env;Mat;552.2;0;552.2;552.2;552.2;
+;                     FC GR;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;3.3132;0;3.3132;3.3132;3.3132;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;555.5132;0;555.5132;555.5132;555.5132;
+
+Padre;951290;Mon: USD;
+;  ;;;;;PT;Mat;0;469.2135236892;469.2135236892;469.2135236892;469.2135236892;
+;  GLAMATIR  40mg/ ml;;;;;Acondi;Man;0;3.24212;3.24212;3.24212;3.24212;
+;  12JER              PT EQ;;;;;Ind Aco;Ind;0;24.1044;24.1044;24.1044;24.1044;
+;  06/24/21;;;;;Gto Imp%;Gen;0;7.0961335108;7.0961335108;7.0961335108;7.0961335108;
+;  ;;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;0;503.6561772;503.6561772;503.6561772;503.6561772;
+
+1;313481;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  GLAMATIR  40mg/ml;0;;;;Mano obr;Man;0;0;0;0;0;
+;                     ET GR;0;;;;Indirect;Ind;0;0;0;0;0;
+;  06/24/21;0;;;;Generale;Gen;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;0;0;0;0;0;
+
+1;320695;1;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ETIQUETA DE SEGURIDAD G1;0;;;;PT;Mat;.005;0;.005;.005;.005;
+;                     ET GR;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.00015;0;.00015;.00015;.00015;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.00515;0;.00515;.00515;.00515;
+
+1;701243;4;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  GLAMATIR  40mg/ml   3JER;0;;;;PT;Mat;0;117.3021309223;117.3021309223;469.2085236892;469.2085236892;
+;                     BL G1;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Acondi;Man;.81053;0;.81053;3.24212;3.24212;
+;  Mon: USD    Tasa Cambio: ;1;;;;Indirect;Ind;0;0;0;0;0;
+;  ;0;;;;Ind Aco;Ind;6.0261;0;6.0261;24.1044;24.1044;
+;  ;0;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;0;1.7739958777;1.7739958777;7.0959835108;7.0959835108;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;6.83663;119.0761268;125.9127568;503.6510272;503.6510272;
+
+.2;332197;3;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  GLAMATIR 40 MG/ML GR;0;;;;PT;Mat;.312;0;.312;.936;.936;
+;  ETIPARA JERINGA PRELLENA;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.00936;0;.00936;.02808;.02808;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;.32136;0;.32136;.96408;.96408;
+
+.2;350236;.0029;KG;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  ALUMINIO VIRGEN (p/imp.;0;;;;PT;Mat;8.03;0;8.03;.023287;.0282609223;
+;  con ACRILATO)192mm AL GR;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: EUR    Tasa Cambio: ;1.213592233;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.2409;0;.2409;.00069861;.0008478277;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;8.2709;0;8.2709;.02398561;.02910875;
+
+.2;355033;.0296;KG;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  FILM PVC 350 XTE CRISTAL;0;;;;Mano obr;Man;0;0;0;0;0;
+;                     VA GR;0;;;;Indirect;Ind;0;0;0;0;0;
+;  06/24/21;0;;;;Generale;Gen;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;0;0;0;0;0;
+
+.2;701178;3;UN;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  GLATIRAMER ACETATO 40 mg;0;;;;PT;Mat;38.77929;0;38.77929;116.33787;116.33787;
+;   GEN JERINGA X 1ml;0;;;;Mano obr;Man;0;0;0;0;0;
+;  06/24/21;0;;;;Indirect;Ind;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Generale;Gen;0;0;0;0;0;
+;  ;0;;;;Gto Imp%;Gen;.58168935;0;.58168935;1.74506805;1.74506805;
+;  ;0;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;39.36097935;0;39.36097935;118.08293805;118.08293805;
+
+.2;U350233;0;KG;;
+;  ;0;;;;Material;Mat;0;0;0;0;0;
+;  GLAMATIR  40mg/ml 177mm;0;;;;Mano obr;Man;0;0;0;0;0;
+;  VTA                FL GR;0;;;;Indirect;Ind;0;0;0;0;0;
+;  06/24/21;0;;;;Generale;Gen;0;0;0;0;0;
+;  Mon: USD    Tasa Cambio: ;1;;;;Subcontr;Sub;0;0;0;0;0;
+;;;;;;  Total:;0;0;0;0;0;
+

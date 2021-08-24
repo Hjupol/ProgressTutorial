@@ -1,0 +1,234 @@
+-------
+QAD2013
+-------
+
+Carlos, te paso los datos para acceder remoto a AMSA
+
+Montar una nueva conexión VPN con los siguientes datos
+
+- host: intranet.farmfrites.com.ar
+(- host: 190.189.201.93)
+- usuario: cmoreno
+- clave: zzcm2341
+- protocolo: pptp
+
+
+Agregar la siguiente linea al archivo hosts
+10.1.1.29 server-qad2013
+
+Instalación .NET
+- Declarar como servidor de confianza al server-qad2013
+- Configurar el navegador Internet Explorer para vista de compatibilidad
+- Instalarlo desde http://server-qad2013:8080/qadhome
+
+Acceso .NET
+Pilo:
+- usuario: mfg
+- contraseña: mfgpro
+Prod:
+- usuario: qadit
+- contraseña: mfgpro
+
+
+Acceso CHUI
+- Desde el putty, crear una conexión con protocolo TELNET
+- IP: 10.1.1.29
+- Usuario: administrator 
+- Clave: qad2013
+- Dominio: FFA
+
+- script: f:\u1\users\<entorno>\chui\<entorno>.bat
+  ej desa: f:\u1\users\desa\chui\desa.bat
+  ej pilo: f:\u1\users\pilo\chui\pilo.bat
+- usuario QAD: mfg
+- Clave: mfgpro
+
+- Para usar HH: f:\u1\users\pilo\chui\hh-pilo.bat
+- Carpeta Log de corrida HH: /u1/users/pilo/ls/f2
+
+
+FTP: 
+- Servidor: 10.1.1.29
+- Ftp simple
+- Modo acceso: normal
+- usuario: qad
+- contraseña: qad2013
+
+  Desde el explorador de Windows:
+    Campo de dirección: ftp://10.1.1.29/
+    usuario: qad
+    contraseña: qad2013
+
+
+FUENTES:
+F:\u1\users\desa\src\f1src
+
+
+PARA COMPILAR:
+>cd /u1/qad/ea/2013se
+>mfgutil
+
+
+PARA BAJAR LAS BASES DE DESARROLLO:
+F:\u1\admin\bin
+dn_desa.bat
+
+INSTALAR CLIENTE .NET
+http://10.1.1.29:8080/qadhome/client/setup.html
+
+
+
+
+
+CONFIGURACION TCP/IP RED
+
+DNS:
+10.1.1.226
+200.69.32.5
+
+Puente:
+10.1.1.200
+
+
+ROUTER
+Red: FM01 clave: af12345678
+Red: 3comAmsa clave: 3comqwerty
+
+
+
+FACTURA ELECTRONICA REAL
+
+www.facturaya.com.ar
+https://server4.globalsis.com.ar/sfe/login.aspx
+
+admin
+30630577736
+47620293
+
+
+
+
+FACTURA ELECTRONICA PRUEBA
+
+Te paso los datos para que puedan automatizar las pruebas con el ftp para verificar que todo está correctamente funcionando
+
+ 
+
+FTP:
+
+-       dirección IP:  server9.globalsis.com.ar
+
+-       Usuario: farmfe
+
+-       Clave: farmfe@
+
+-       directorio: /comprobantes2
+
+ 
+
+Web:
+
+-       dirección IP:  http://server9.globalsis.com.ar/sfe/login.aspx
+
+-       CUIT: 30630577736
+
+-       Usuario: admin_demo	
+
+-       Clave: 99999999
+
+ 
+
+Opciones de menú:
+
+Resultados de procesos: verificas si tomo el ftp y como entrego el resultado la AFIP
+
+Comprobantes de venta: Consulta los comprobantes
+
+
+
+Acceso a COT
+------------
+
+www.krikoseei.com.ar
+
+empresa: ALMOD
+usuario: COTALMOD
+pswwd:   COTALMOD
+
+
+Clave red AMSASION
+------------------
+mod4853
+
+
+Configuración de Correo Farm Frites
+-----------------------------------
+smtp: smtp3.sion.com (10.1.1.1 y 10.1.10.1)
+puerto: 25
+usuario: correosion
+clave: sion725432
+
+Accesos remotos:
+---------------
+local en AMSA: 10.1.1.37:3398
+local en AMSA: 10.1.1.9:3347
+
+remotos:
+host: 200.11.113.102:3347 (9)
+host: 200.11.113.102:3398 (37)
+
+
+
+CoolMind:
+---------
+Servidor de Producción: \\10.1.1.227
+Servidor de Test: \\10.1.1.228
+ 
+usuario: cmind
+passwd: 2010qad
+
+
+PRUEBA FACTURA ELECTRONICA RG2904
+---------------------------------
+Datos servidores de prueba
+WEB
+
+- http://server9.globalsis.com.ar/sfe
+
+- CUIT: 30630577736
+- Usuario: admin_demo
+- Clave: 99999999 
+
+FTP
+
+- Numero de IP para acceder por FTP: 190.228.9.107
+- Usuario fealim
+- Clave carlos1@ 
+- Carpeta COMPROBANTES2
+
+--
+EB
+--
+Escritorio Remoto:
+IP: 200.11.113.102:3347
+usuario: Administrador
+clave: nt12369
+dominio: DOMINIO
+
+-----------------------------
+COMPILACION
+-----------------------------
+Entrar al putty(mas arriba se describe), iniciar QAD en modo caracter, apretar f4e ir al editor escribiendo la P.
+
+propath = "F:\u1\users\desa\src\f1src" +
+",f:\u1\qad\ea\2013se\src,f:\u1\qad\ea\2013se\xrc," +
+"f:\u1\users\desa\src,f:\u1\users\desa\src\Reportes," + propath.
+
+
+
+compile /u1/users/desa/src/f1src/f1etiqb4.p save into /u1/users/pilo/ls/f1.
+
+
+
+
+

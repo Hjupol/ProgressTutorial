@@ -1,0 +1,8 @@
+puttty oficina 2013SE:
+usr: root
+pass: mfgpro
+
+Para entrar al 
+cd /u1/users/pfs
+prod.sh
+F4 luego P
