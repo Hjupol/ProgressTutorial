@@ -21,11 +21,11 @@ REPEAT :
     IF entrada = " " THEN NEXT.
     ELSE DO:
         CREATE tabla.
-        ASSIGN nombre = ENTRY(1,entrada,",") NO-ERROR.
-        ASSIGN edad = INTEGER(ENTRY(2,entrada,",")) NO-ERROR.
-        ASSIGN indice = INTEGER(ENTRY(3,entrada,",")) NO-ERROR.
-        ASSIGN rango[1] = ENTRY(4,entrada,",") NO-ERROR.
-        ASSIGN rango[2] = ENTRY(5,entrada,",") NO-ERROR.
+        ASSIGN nombre = ENTRY(1,entrada,";") NO-ERROR.
+        ASSIGN edad = INTEGER(ENTRY(2,entrada,";")) NO-ERROR.
+        ASSIGN indice = INTEGER(ENTRY(3,entrada,";")) NO-ERROR.
+        ASSIGN rango[1] = ENTRY(4,entrada,";") NO-ERROR.
+        ASSIGN rango[2] = ENTRY(5,entrada,";") NO-ERROR.
     END.
 END.
 INPUT CLOSE.
