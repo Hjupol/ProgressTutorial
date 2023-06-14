@@ -249,3 +249,13 @@ END.
 
 end.
 */
+
+def var nombre as character.                                                    
+def var nombredos as character.                                                 
+def var pos1 as integer.                                                 
+nombre = "/mnt/adaptive/cosas33333333raras.csv".
+pos1 = r-index(nombre,"/") + 1.                                
+nombredos = SUBSTRING(nombre,1, pos1).
+/*(length(nombre)-               
+r-index(nombre,"/"))*/                                                       
+display nombredos format "x(30)".
